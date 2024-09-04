@@ -1,4 +1,4 @@
-# Accident-Analysis-
+--# Car Accident-Analysis-
 -- First I create schema (database). Create a database and I call it "VhclAcc".
 -- Next, I import the CSV files to this database as tables.
 -- Now, I am going to answer some rephrased questions with SQL to conduct exploratory data analysis.
